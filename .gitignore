@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+# OS or editor swap files
+
+# Temporary files
+*.tmp
+
+# Python cache (if any)
+__pycache__/
+*.pyc
