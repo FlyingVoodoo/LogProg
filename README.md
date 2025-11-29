@@ -1,1 +1,1 @@
-#My LogProg's Labs in MAI in third sem
+# My LogProg's Labs in MAI in third sem
